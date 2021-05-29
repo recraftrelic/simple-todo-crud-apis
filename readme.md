@@ -33,3 +33,9 @@ Contributors
 ============
 
 * [Manoj Singh Negi](https://manojsinghnegi.com/)
+
+Sponsors
+========
+
+[<img src="http://www.recraftstudio.com/images/logo.png" alt="Recraft Relic Private Limited" width="50"/>](http://www.recraftrelic.com)
+
